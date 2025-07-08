@@ -6,6 +6,9 @@
 build/
 DerivedData/
 
+## Firebase
+GoogleService-Info.plist
+
 ## Various settings
 *.pbxuser
 !default.pbxuser
@@ -65,5 +68,4 @@ Carthage/Build
 fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots/**/*.png
-fastlane/test_output.gitignore.rtf
-.gitignore.save
+fastlane/test_output
